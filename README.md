@@ -1,7 +1,3 @@
-```
-theme: jekyll-theme-slate
-```
-
 # Rena Takahashi
 
 ## About Me
