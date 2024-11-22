@@ -42,6 +42,13 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 
 ## Data visualization
 
-{ % include main.py }
+<div>
+  <iframe id="fig2"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="fig2.html">
+  </iframe>
+</div>
 
 ## LinkedIn Profile
