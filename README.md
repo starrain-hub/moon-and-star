@@ -45,8 +45,8 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 <div>
   <iframe id="fig2"
       title="Inline Frame Example"
-      width="300"
-      height="200"
+      width="1000"
+      height="900"
       src="fig2.html">
   </iframe>
 </div>
