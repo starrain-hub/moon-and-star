@@ -42,8 +42,8 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 
 ## Data visualization
 ```
-<iframe src = "fig1.html" width="800" height="600" frameborder="0"></iframe>
-<iframe src = "fig2.html" width="800" height="600" frameborder="0"></iframe>
+<iframe width="100%" height="500px" src="https://starrain-hub.github.io/starrain-hub.github.io/fig1.html" frameborder="0"></iframe>
+<iframe width="100%" height="500px" src="https://yourusername.github.io/starrain-hub.github.io/fig2.html" frameborder="0"></iframe>
 ```
 
 ## LinkedIn Profile
