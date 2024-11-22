@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Plotly Plot</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="plotly-plot" style="height: 100%; width: 100%;"></div>
+    <script>
+        var data = [{
+            x: [1, 2, 3],
+            y: [10, 11, 12],
+            mode: 'markers',
+            type: 'scatter'
+        }];
+        var layout = {
+            title: 'Sample Plotly Plot'
+        };
+        Plotly.newPlot('plotly-plot', data, layout);
+    </script>
+</body>
+</html>
