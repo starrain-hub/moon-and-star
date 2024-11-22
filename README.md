@@ -43,5 +43,6 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 ## Data visualization
 
   {% include_relative heatmap.html %}
+  {% include_relative scattermap.html %}
 
 ## LinkedIn Profile
