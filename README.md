@@ -47,7 +47,7 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
       title="Inline Frame Example"
       width="800"
       height="500"
-      src="fig2.html">
+      src="scattermap.html">
   </iframe>
 </div>
 
