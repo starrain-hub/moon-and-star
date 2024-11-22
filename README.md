@@ -41,7 +41,9 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
       - Idea: Create a regression plot that compares different variables from this dataset to determine their relationships. To make this easier, we can focus on the impact of the variables on a single factor such as stress level. The regression plot would create a potential predictive model to hypothesize how certain factors would impact our stress levels.
 
 ## Data visualization
+```
 <iframe src = "fig1.html" width="800" height="600" frameborder="0"></iframe>
 <iframe src = "fig2.html" width="800" height="600" frameborder="0"></iframe>
+```
 
 ## LinkedIn Profile
