@@ -42,13 +42,6 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 
 ## Data visualization
 
-<div>
-  <iframe id="fig2"
-      title="Inline Frame Example"
-      width="900"
-      height="600"
-      src="scattermap.html">
-  </iframe>
-</div>
+  {% include_relative heatmap.html %}
 
 ## LinkedIn Profile
