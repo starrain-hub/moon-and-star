@@ -42,6 +42,6 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
 
 ## Data visualization
 ```
-{ % include fig1.html }
+{ % include main.py }
 ```
 ## LinkedIn Profile
