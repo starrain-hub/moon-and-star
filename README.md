@@ -7,7 +7,7 @@ I am a sophomore ('27) at Whitman College with a prospective combined major in M
 
 ## Portfolio Overview:
 This page contains my work with data analysis and visualizations of different kinds of data. Additionally, it has a list of my technical skills, coding notebook sources, and project ideas with its data sources. \
-The link to my Handshake profile and resume are also attached at the bottom.
+The link to my Handshake profile is also attached at the bottom.
 
 <br>
 
@@ -59,5 +59,3 @@ The following data visualizations are for a course CS 210: Intro to Data Science
 
 ## Handshake Profile + Resume
 [Link to my Handshake profile](https://whitman.joinhandshake.com/profiles/49700671)
-
-Resume: <object data="Resume 5.pdf" width="1000" height="1000" type='application/pdf'></object>
