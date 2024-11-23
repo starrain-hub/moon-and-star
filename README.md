@@ -49,4 +49,4 @@ The following data visualizations are for a course CS 210: Intro to Data Science
 ## Handshake Profile + Resume
 [Link to my Handshake profile](https://whitman.joinhandshake.com/profiles/49700671)
 
-Resume: <object data="Resume 5.pdf" width="1000" height="1000" type='application/pdf'/>
+Resume: <object data="Resume 5.pdf" width="1000" height="1000" type='application/pdf'></object>
