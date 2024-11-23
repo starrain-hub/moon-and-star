@@ -46,6 +46,7 @@ The following data visualizations are for a course CS 210: Intro to Data Science
   {% include_relative heatmap.html %}
   {% include_relative scattermap.html %}
 
+
 ## Handshake Profile + Resume
 [Link to my Handshake profile](https://whitman.joinhandshake.com/profiles/49700671)
 
