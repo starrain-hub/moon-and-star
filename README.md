@@ -3,9 +3,13 @@
 ## About Me
 I am a sophomore ('27) at Whitman College with a prospective combined major in Mathematics-Statistics and a minor in Psychology, with an interest in Criminology. I am a high school graduate of India International School in Japan ('22) and a former Minerva University student ('23). Outside of classes, I explore the field of crime and its statistics through books such as anecdotes of past cases and how statistics are calculated in crimes. I aspire to work with statistics in applications of psychology and/or criminology.
 
+<br>
+
 ## Portfolio Overview:
 This page contains my work with data analysis and visualizations of different kinds of data. Additionally, it has a list of my technical skills, coding notebook sources, and project ideas with its data sources. \
 The link to my Handshake profile and resume are also attached at the bottom.
+
+<br>
 
 ## Technical Skills
 - Python
@@ -22,6 +26,8 @@ The link to my Handshake profile and resume are also attached at the bottom.
 - Jupyter Notebook
 - Spyder
 - Google Colab
+
+<br>
 
 ## Data Sources and Project Ideas
 The following data sources are my ideas for a project on data analysis:
@@ -40,6 +46,8 @@ The following data sources are my ideas for a project on data analysis:
 - [Sleep, Health, and Lifestyle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
   - Description: The Sleep, Health, and Lifestyle dataset monitors sleep and stress levels by measuring factors such as the duration and quality of a participant's sleep, physical activity level, stress level, and sleep disorder(s).
   - Idea: Create a regression plot that compares different variables from this dataset to determine their relationships. To make this easier, we can focus on the impact of the variables on a single factor such as stress level. The regression plot would create a potential predictive model to hypothesize how certain factors would impact our stress levels.
+
+<br>
 
 ## Data visualization
 The following data visualizations are for a course CS 210: Intro to Data Science. They were constructed using a professor's geolocation (with consent), aiming to answer the question "Is the professor's most frequented location within walking distance?"
