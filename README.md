@@ -24,6 +24,7 @@ The link to my Handshake profile and resume are also attached at the bottom.
 - Google Colab
 
 ## Data Sources and Project Ideas
+The following data sources are my ideas for a project on data analysis:
 - [Real-Time Crime Index](https://realtimecrimeindex.com/)
   - Description: The FBI Crime Data Explorer takes forever to load for me, so I have decided to go through a website that directly sources from the FBI and other agencies. They present crime patterns in the form of a line graph for violent and property crimes, nationwide or among states.
   - Idea: Compare different categories of violent and property crimes between states to calculate the categorical crime statistic at any given point in time. From the statistics, create a predictive model that would generate a visualization of a potential crime pattern using previous trends.
