@@ -5,7 +5,7 @@ I am a sophomore ('27) at Whitman College with a prospective combined major in M
 
 ## Portfolio Overview:
 This page contains my work with data analysis and visualizations of different kinds of data. Additionally, it has a list of my technical skills, coding notebook sources, and project ideas with its data sources. \
-The link to my LinkedIn profile and resume are also attached at the bottom.
+The link to my Handshake profile and resume are also attached at the bottom.
 
 ## Technical Skills
 - Python
@@ -41,8 +41,11 @@ The link to my LinkedIn profile and resume are also attached at the bottom.
   - Idea: Create a regression plot that compares different variables from this dataset to determine their relationships. To make this easier, we can focus on the impact of the variables on a single factor such as stress level. The regression plot would create a potential predictive model to hypothesize how certain factors would impact our stress levels.
 
 ## Data visualization
+The following data visualizations are for a course CS 210: Intro to Data Science. They were constructed using a professor's geolocation (with consent), aiming to answer the question "Is the professor's most frequented location within walking distance?"
 
   {% include_relative heatmap.html %}
   {% include_relative scattermap.html %}
 
-## LinkedIn Profile
+## Handshake Profile + Resume
+[Link to my Handshake profile](https://whitman.joinhandshake.com/profiles/49700671)
+My Resume
