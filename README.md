@@ -50,10 +50,15 @@ The following data sources are my ideas for a project on data analysis:
 <br>
 
 ## Data visualization
-The following data visualizations are for a course CS 210: Intro to Data Science. They were constructed using a professor's geolocation (with consent), aiming to answer the question "Is the professor's most frequented location within walking distance?"
+The following data visualizations are for a course CS 215: Intro to Data Science. They were constructed using a professor's geolocation (with consent), aiming to answer the question "Is the professor's most frequented location within walking distance?"
 
   {% include_relative heatmap.html %}
   {% include_relative scattermap.html %}
+
+<br>
+
+## Final project for CS 215: Intro to Data Science
+This [webpage](https://starrain-hub.github.io/CS215/) is my Github page for my final project for the CS 215: Intro to Data Science course. With my partner LJ Friedman, I explored the potential relationship between finance and general happiness in countries all over the world. For the purpose of this project, we decided to focus on four categories for finance: cost of living, health expenditure per capita, annual precipitation, and percentage of land usage for agriculture. We used choroplets, scatterplots, and boxplots to map out our visualizations for the datasets that we have created using CSVs. The CSVs as well as their sources are linked in the project page. We are aware that the categories of finance we have used in this project are just four of a million factors that could impact happiness in the world, but to maintain the scope of this project, we have restrained ourselves to four.
 
 <br>
 
